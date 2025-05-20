@@ -77,8 +77,6 @@ Create your own fork of the project and use
 the feature is published in your fork, send a pull request to begin the
 conversation of integrating your new feature into osTicket.
 
-Test SonarCloud
-
 ### Localization
 [![Crowdin](https://badges.crowdin.net/osticket-official/localized.svg)](https://crowdin.com/project/osticket-official)
 
@@ -117,3 +115,5 @@ osTicket is supported by several magical open source projects including:
   * [php-gettext](https://launchpad.net/php-gettext/)
   * [phpseclib](https://phpseclib.sourceforge.net/)
   * [Spyc](https://github.com/mustangostang/spyc)
+
+Test trigger for SonarCloud
