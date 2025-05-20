@@ -77,6 +77,8 @@ Create your own fork of the project and use
 the feature is published in your fork, send a pull request to begin the
 conversation of integrating your new feature into osTicket.
 
+Test SonarCloud
+
 ### Localization
 [![Crowdin](https://badges.crowdin.net/osticket-official/localized.svg)](https://crowdin.com/project/osticket-official)
 
